@@ -260,7 +260,7 @@ function you(){
 }
 
 let timer;
-let min=01;
+let min=1;
 let sec=60;
 
 
