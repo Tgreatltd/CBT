@@ -13,8 +13,8 @@ let arr= [
    
     {
         question:'who is the president of nigeria',
-        options:['teslim', 'buhari', 'jonathan'],
-        answer:'buhari',
+        options:['teslim', 'Tinubu', 'jonathan'],
+        answer:'Tinubu',
         chosen: ''
     },
         {
